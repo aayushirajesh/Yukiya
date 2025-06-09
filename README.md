@@ -1,8 +1,7 @@
-# [Yukiya🌸 — Telegram Weather Bot](t.me/yukiya_bot)
+# [Yukiya🌸 — Telegram Weather Bot](https://t.me/yukiya_bot)
 
 **Yukiya** is a simple and reliable Telegram bot that provides real-time weather updates for any city. Built using Python and OpenWeatherAPI, Yukiya replies to user messages with current weather details in a clean and readable format.
 ---
-
 ## Features
 
 - Provides real-time weather information
